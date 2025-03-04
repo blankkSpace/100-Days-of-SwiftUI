@@ -10,4 +10,4 @@ Throughout this repository youll see me take on the daily goals outlined by the 
 
 I am taking this as an opportunity to develop and push my skills as a developer but to also act as a stepping stone into Apple development 
 
-# What i've learnt 
+# What I've learnt 
